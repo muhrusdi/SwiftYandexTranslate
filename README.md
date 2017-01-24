@@ -1,4 +1,4 @@
-# Swift Tandex Translate
+# Swift Yandex Translate
 
 ### Using SwiftYandexTranslate
 
